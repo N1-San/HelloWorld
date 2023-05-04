@@ -11,3 +11,16 @@ because you can't deny the fact that the first program in every language that al
 So this is my tribute to the one who has helped us countless times.
 
 Thank you `Hello World` We won't be where we are without you.
+
+### List of Languages
+1. C
+2. C#
+3. C++
+4. Dart
+5. Elixir
+6. Java
+7. JavaScript
+8. Python
+9. Ruby
+10. Scala
+11. VB.net
