@@ -1,7 +1,7 @@
 # Hello World
 a simple hello world project......seriously, this is just a project that has a `Hello World`.
 
-If you don't know yet, I start every ReadMe file of all my projects with, "a simple `<project name>`". While I was just watching a YouTuber ForrestKnight's [this](https://www.youtube.com/watch?v=n2B-FClr5rA&list=PLiVe36BQmGS0--r2m1gHuC7vOqWTWaeUE&index=8) video, the first project he talks about in the video is a `Hello World` project. 
+If you don't know yet, I start every ReadMe file of all my projects with, "a simple `<project name>`". While I was just watching a YouTuber [ForrestKnight](https://github.com/forrestknight)'s [this](https://www.youtube.com/watch?v=n2B-FClr5rA&list=PLiVe36BQmGS0--r2m1gHuC7vOqWTWaeUE&index=8) video, the first project he talks about in the video is a `Hello World` project. 
 
 So here we are, here is a project with a `Hello World` program written in every language I have ever remotely touched or read the documentation off.
 
